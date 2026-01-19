@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently a college student: Actively pursuing my degree and exploring new technologies.<br><br>🌱 Hackathon Enthusiast: I am highly interested in participating in various competitions and hackathons to build innovative solutions.<br><br>💻 Multi-Disciplinary Skills: Working on Flutter Development, Web Design, IoT, and UI/UX in Figma while improving DSA skills.<br><br>👯 I’m looking to collaborate on: Cool Open Source projects and creative startup ideas where I can contribute my skills.<br><br>💬 Ask me about: My experience in coding competitions or my passion for creating clean and functional Web and Mobile designs.
+🔭 I’m currently a college student: Actively pursuing my degree and exploring new technologies.<br>🌱 Hackathon Enthusiast: I am highly interested in participating in various competitions and hackathons to build innovative solutions.<br>💻 Multi-Disciplinary Skills: Working on Flutter Development, Web Design, IoT, and UI/UX in Figma while improving DSA skills.<br>👯 I’m looking to collaborate on: Cool Open Source projects and creative startup ideas where I can contribute my skills.<br>💬 Ask me about: My experience in coding competitions or my passion for creating clean and functional Web and Mobile designs.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=chandra-1402&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chandra-1402&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-1402&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chandra-1402&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=chandra-1402&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chandra-1402&icon=2&color=0)](https://visitcount.itsvg.in)
