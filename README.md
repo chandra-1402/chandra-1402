@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently a college student: Actively pursuing my degree and exploring new technologies.<br>🌱 Hackathon Enthusiast: I am highly interested in participating in various competitions and hackathons to build innovative solutions.<br>💻 Multi-Disciplinary Skills: Working on Flutter Development, Web Design, IoT, and UI/UX in Figma while improving DSA skills.<br>👯 I’m looking to collaborate on: Cool Open Source projects and creative startup ideas where I can contribute my skills.<br>💬 Ask me about: My experience in coding competitions or my passion for creating clean and functional Web and Mobile designs.
+🔭 I’m currently a college student: Actively pursuing my degree and exploring new technologies.<br>🌱 Hackathon Enthusiast: I am highly interested in participating in various competitions and hackathons to build innovative solutions.<br>💻 Multi-Disciplinary Skills: Working on Web Design, IoT, and UI/UX in Figma.<br>👯 I’m looking to collaborate on: Cool Open Source projects and creative startup ideas where I can contribute my skills.<br>💬 Ask me about: My experience in coding competitions or my passion for creating clean and functional Web and Mobile designs.
 
 
 ## 🌐 Socials:
